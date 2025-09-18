@@ -1,0 +1,88 @@
+{
+  "math": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the value of 2 + 2?",
+        "ar": "ما هي قيمة 2 + 2؟"
+      },
+      "options": [
+        {"en": "3", "ar": "3"},
+        {"en": "4", "ar": "4"},
+        {"en": "5", "ar": "5"},
+        {"en": "6", "ar": "6"}
+      ],
+      "answer": "4",
+      "explanation": {
+        "en": "Basic addition",
+        "ar": "جمع بسيط"
+      },
+      "difficulty": 1
+    },
+    {
+      "id": 2,
+      "question": {
+        "en": "Solve for x: 2x + 3 = 7",
+        "ar": "حل من أجل x: 2x + 3 = 7"
+      },
+      "options": [
+        {"en": "x=1", "ar": "x=1"},
+        {"en": "x=2", "ar": "x=2"},
+        {"en": "x=3", "ar": "x=3"},
+        {"en": "x=4", "ar": "x=4"}
+      ],
+      "answer": "x=2",
+      "explanation": {
+        "en": "Subtract 3 from both sides: 2x=4, then divide by 2",
+        "ar": "اطرح 3 من كلا الجانبين: 2x=4، ثم اقسم على 2"
+      },
+      "difficulty": 2
+    }
+  ],
+  "reading": [
+    {
+      "id": 1,
+      "question": {
+        "en": "What is the main idea of the passage?",
+        "ar": "ما هي الفكرة الرئيسية للفقرة؟"
+      },
+      "passage": {
+        "en": "The sun rises in the east and sets in the west. This apparent movement is caused by the Earth's rotation on its axis.",
+        "ar": "تشرق الشمس في الشرق وتغرب في الغرب. هذه الحركة الظاهرة ناتجة عن دوران الأرض حول محورها."
+      },
+      "options": [
+        {"en": "The sun moves across the sky", "ar": "الشمس تتحرك عبر السماء"},
+        {"en": "Earth's rotation causes day and night", "ar": "دوران الأرض يسبب الليل والنهار"},
+        {"en": "The sun is larger than Earth", "ar": "الشمس أكبر من الأرض"},
+        {"en": "Earth orbits the sun", "ar": "الأرض تدور حول الشمس"}
+      ],
+      "answer": "Earth's rotation causes day and night",
+      "explanation": {
+        "en": "The passage explains that the apparent movement of the sun is due to Earth's rotation",
+        "ar": "الفقرة تشرح أن الحركة الظاهرة للشمس ناتجة عن دوران الأرض"
+      },
+      "difficulty": 2
+    }
+  ],
+  "writing": [
+    {
+      "id": 1,
+      "question": {
+        "en": "Which sentence is grammatically correct?",
+        "ar": "أي جملة صحيحة نحويًا؟"
+      },
+      "options": [
+        {"en": "He don't like apples", "ar": "He don't like apples"},
+        {"en": "He doesn't likes apples", "ar": "He doesn't likes apples"},
+        {"en": "He doesn't like apples", "ar": "He doesn't like apples"},
+        {"en": "He don't likes apples", "ar": "He don't likes apples"}
+      ],
+      "answer": "He doesn't like apples",
+      "explanation": {
+        "en": "Third person singular requires 'doesn't' followed by the base form of the verb",
+        "ar": "الغائب المفرد يتطلب 'doesn't' متبوعًا بالفعل في صيغته الأساسية"
+      },
+      "difficulty": 1
+    }
+  ]
+}
