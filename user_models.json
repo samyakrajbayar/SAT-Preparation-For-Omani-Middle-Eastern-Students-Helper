@@ -1,0 +1,10 @@
+{
+  "user1": {
+    "strengths": ["algebra", "grammar"],
+    "weaknesses": ["geometry", "reading_comprehension"],
+    "preferences": ["math", "short_questions"],
+    "learning_style": "visual",
+    "pace": "medium",
+    "goals": ["improve_math_score", "master_reading"]
+  }
+}
